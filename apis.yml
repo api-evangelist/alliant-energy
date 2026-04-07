@@ -1,7 +1,11 @@
 aid: alliant-energy
-url: https://raw.githubusercontent.com/api-evangelist/alliant-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/alliant-energy/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.alliant-energy.com
+description: >-
+  Alliant Energy is a regulated investor-owned public utility holding company that
+  provides electric and natural gas service to customers in Iowa and Wisconsin.
