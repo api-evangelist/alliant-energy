@@ -1,7 +1,9 @@
 ---
 title: Large Energy Users and Data Centers
 url: https://www.alliantenergy.com/our-energy/data-centers
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Alliant Energy" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Meta Advances Efforts to Power AI Data Centers
 url: https://www.industrialinfo.com/iirenergy/industry-news/article/meta-advances-efforts-to-power-ai-data-centers--349183
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Alliant Energy" press release artificial intelligence'
 position: 5
 source: serpapi-google
